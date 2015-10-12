@@ -2,6 +2,6 @@
 
 main()
 {
-    cout << "Hello World24!" << endl;
+    cout << "Hello World25!" << endl;
     return 0;
 }
